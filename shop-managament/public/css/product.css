@@ -1,0 +1,16 @@
+.product-name {
+    position: relative;
+    cursor: pointer;
+}
+
+.tooltip-image {
+    position: absolute;
+    z-index: 1000;
+    top: -160px;
+    left: 0;
+    background: white;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
